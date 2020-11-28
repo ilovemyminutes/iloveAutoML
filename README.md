@@ -49,7 +49,4 @@ results                                                         # input path to 
     * Report: [prediction_dt_20201013185608(marketing_test.csv).xlsx](https://gitlab.solidware.io/Andrew/minicore/raw/master/results/prediction_dt_20201013185608(marketing_test.csv)/prediction_dt_20201013185608(marketing_test.csv).xlsx)
 
 ## References
-* [ML Core](https://gitlab.solidware.io/DataLabs/MLCore), Solidware
-* [Julia's OT Repo](https://gitlab.solidware.io/julia_lee/ot-task1-julia), Solidware
 * [AutoKeras](https://github.com/keras-team/autokeras), AutoKeras
-* [Digest](https://gitlab.solidware.io/Andrew/digest), Solidware
