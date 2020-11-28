@@ -1,5 +1,6 @@
 # iloveAutoML
 * 본 저장소는 Auto ML 파이프라인 개발 과정을 기록하기 위한 공간입니다.
+* 조금씩 세분화된 학습 기능을 추가해 나갈 예정입니다😊
 
 ## Dataset
 * train data: [marketing_train.csv](https://gitlab.solidware.io/Andrew/minicore/blob/master/samples/marketing/marketing_train.csv)
