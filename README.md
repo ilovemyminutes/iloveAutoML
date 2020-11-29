@@ -18,11 +18,13 @@
 `--meta_path`: path of mata data needed for test  
 
 * **Train Phase**
+![](https://github.com/iloveslowfood/iloveAutoML/blob/main/results/Train%20Phase.png?raw=true)
 ```python
 >>> python main.py --input samples/marketing/marketing_train.csv --mode train --problem_type binary --target insurance_subscribe --save_path results
 Train report has been saved in 'results/dt_YYYYMMDDHHMMSS'.
 ```
 * **Test Phase**
+![](https://github.com/iloveslowfood/iloveAutoML/blob/main/results/Test%20Phase.png?raw=true)
 ```python
 >>> python main.py --input samples/marketing/marketing_test.csv --mode test --meta_path results/dt_YYYYMMDDHHMMSS --save_path results
 Test report has been saved in 'results/prediction_dt_YYYYMMDDHHMMSS(marketing_test.csv)'.
