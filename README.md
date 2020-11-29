@@ -1,6 +1,6 @@
 # iloveAutoML
 * 본 저장소는 Auto ML 파이프라인 개발 과정을 기록하기 위한 공간입니다.
-* 조금씩 세분화된 학습 기능을 추가해 나갈 예정입니다😊
+* 조금씩 기능을 확장해나갈 예정입니다😊
 
 ## Samples
 * data/target: marketing/insurance_subscribe, titanic/Survived
