@@ -20,22 +20,22 @@
 * **Train Phase**
 ```python
 >>> python main.py --input samples/marketing/marketing_train.csv --mode train --problem_type binary --target insurance_subscribe --save_path results
-Train report has been saved in 'results/dt_20201013185608'.
+Train report has been saved in 'results/dt_YYYYMMDDHHMMSS'.
 ```
 * **Test Phase**
 ```python
->>> python main.py --input samples/marketing/marketing_test.csv --mode test --meta_path results/dt_20201013185608 --save_path results
-Test report has been saved in 'results/prediction_dt_20201013185608(marketing_test.csv)'.
+>>> python main.py --input samples/marketing/marketing_test.csv --mode test --meta_path results/dt_YYYYMMDDHHMMSS --save_path results
+Test report has been saved in 'results/prediction_dt_YYYYMMDDHHMMSS(marketing_test.csv)'.
 ```
 
 ## Output
 ```
 results                                                         # input path to save results
-  ├─dt_20201013185608                                           # output folder of train phase
-  │    ├─dt_20201013185608.zip                                  # zip of meta files
-  │    └─dt_report_20201013185608.xlsx                          # train report
-  └─prediction_dt_20201013185608(marketing_test.csv)            # output folder of test phase
-       └─prediction_dt_20201013185608(marketing_test.csv).xlsx  # test report
+  ├─dt_YYYYMMDDHHMMSS                                           # output folder of train phase
+  │    ├─dt_YYYYMMDDHHMMSS.zip                                  # zip of meta files
+  │    └─dt_report_YYYYMMDDHHMMSS.xlsx                          # train report
+  └─prediction_dt_YYYYMMDDHHMMSS(marketing_test.csv)            # output folder of test phase
+       └─prediction_dt_YYYYMMDDHHMMSS(marketing_test.csv).xlsx  # test report
 ```
 
 * **Train Report Sample**
