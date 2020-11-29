@@ -46,3 +46,8 @@ results                                                         # input path to 
 
 * **Test Report Sample**
     * Report: [prediction_dt_20201027163041(marketing_test.csv).xlsx](https://github.com/iloveslowfood/iloveAutoML/raw/main/results/prediction_dt_20201028174759(marketing_with_NaNs_test.csv)/prediction_dt_20201028174759(marketing_with_NaNs_test.csv).xlsx)
+    
+## TODO
+* More algorithms
+* More transformations
+* Improved tuning process
