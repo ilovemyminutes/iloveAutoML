@@ -39,11 +39,11 @@ results                                                         # input path to 
 ```
 
 * **Train Report Sample**
-    * Report: [dt_report_20201013185608.xlsx](https://gitlab.solidware.io/Andrew/minicore/raw/master/results/dt_20201013185608/dt_report_20201013185608.xlsx)
-    * Meta file: [dt_20201013185608.zip](https://gitlab.solidware.io/Andrew/minicore/raw/master/results/dt_20201013185608/dt_20201013185608.zip)
+    * Report: [dt_report_20201027163041.xlsx](https://github.com/iloveslowfood/iloveAutoML/raw/main/tests/results/dt_20201027163041/dt_report_20201027163041.xlsx)
+    * Meta file: [dt_20201027163041.zip](https://github.com/iloveslowfood/iloveAutoML/raw/main/tests/results/dt_20201027163041/dt_20201027163041.zip)
 
 * **Test Report Sample**
-    * Report: [prediction_dt_20201013185608(marketing_test.csv).xlsx](https://gitlab.solidware.io/Andrew/minicore/raw/master/results/prediction_dt_20201013185608(marketing_test.csv)/prediction_dt_20201013185608(marketing_test.csv).xlsx)
+    * Report: [prediction_dt_20201027163041(marketing_test.csv).xlsx](https://github.com/iloveslowfood/iloveAutoML/raw/main/results/prediction_dt_20201028174759(marketing_with_NaNs_test.csv)/prediction_dt_20201028174759(marketing_with_NaNs_test.csv).xlsx)
 
 ## References
 * [AutoKeras](https://github.com/keras-team/autokeras), AutoKeras
